@@ -21,7 +21,7 @@ There are a total of 6 activities. Type is the descriptive label for the activit
 
 ### Subject
 
-The experiment is carried out by 30 volunteers, thus the subject is numbered from 1 to 30 to represent each row represents a volunteer's observation.
+The experiment is carried out by 30 volunteers, thus each row represents a volunteer's observation.
 
 ### Other Variables:
 
